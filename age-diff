@@ -1,0 +1,5 @@
+function ageDifference (youngest, oldest) {
+
+return oldest - youngest;
+}
+ageDifference (45, 67);
